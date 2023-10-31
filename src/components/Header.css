@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap'); 
+.font{
+    font-family: 'Young Serif', serif;
+
+}
+.img{
+    height: 50px;
+    width: 50px;
+}
+span{
+    color: rgb(42, 228, 212);
+}
+

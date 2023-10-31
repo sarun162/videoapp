@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rowdies&display=swap');
+.non{
+    margin-top: 800px;
+}
+.fontt{
+    font-family: 'Pacifico', cursive;
+font-family: 'Rowdies', sans-serif;
+}
+
+.button{
+    align-items: center;
+    margin-left: 60px;
+    color: #03fcd7;
+}
+
+.b1{
+    margin-left: 450px;
+}
